@@ -11,6 +11,8 @@
  *
  * @authors     Josip Šimun Kuči @ soldered.com
  ***************************************************/
+#include "AD8495-SOLDERED.hpp"
+
 
 // Create an AD8495 instance on analog pin 32 (Pin A1 on the Dasduino CORE)
 AD8495 sensor(A1, 10, 3.3);  // 12-bit ADC, 3.3V reference
