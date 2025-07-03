@@ -13,9 +13,19 @@
  ***************************************************/
 #include "AD8495-SOLDERED.hpp"
 
-
-// Create an AD8495 instance on analog pin 32 (Pin A1 on the Dasduino CORE)
-AD8495 sensor(A1, 10, 3.3);  // 12-bit ADC, 3.3V reference
+#ifdef __AVR__
+int analogPin=A1;
+int resolution=10;
+#elif ESP32 || ESP8266
+int analogPin=32;
+int resolution=12;
+#else //If youre using alternative boards, enter pin and resolution here
+int analogPin=1;
+int resolution=12;
+#endif
+// Create an AD8495 instance on analog pin
+// The reference voltage indicates what voltage the breakout board is connected to, we reccomend 3.3V
+AD8495 sensor(analogPin, resolution, 3.3);  // 3.3V reference
 
 
 

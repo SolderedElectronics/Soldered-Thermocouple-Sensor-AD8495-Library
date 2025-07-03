@@ -28,7 +28,10 @@ AD8495::AD8495(uint8_t pin, uint16_t resolution_bits, float reference_voltage)
     _lsb = _vref / _resolution;
     _offset = 0.0;
     _deg_per_mv = 1.0 / 0.005;  // 5 mV/°C
+
+    #ifndef __AVR__
     analogReadResolution(resolution_bits);
+    #endif
 }
 
 /**
