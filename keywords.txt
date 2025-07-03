@@ -1,5 +1,5 @@
 ##################################################
-# Syntax Coloring Map For Obstacle-Sensor-SOLDERED
+# Syntax Coloring Map For Thermocouple-Sensor-AD8495-SOLDERED
 ##################################################
 
 ##################################################
