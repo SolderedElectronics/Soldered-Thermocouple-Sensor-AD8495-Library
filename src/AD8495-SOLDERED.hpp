@@ -36,8 +36,7 @@ class AD8495
     float _voltage_offset_constant;
     float _lsb;
     float _offset;
-    float _deg_per_mv; 
-
+    float _deg_per_mv;
 };
 
 #endif
