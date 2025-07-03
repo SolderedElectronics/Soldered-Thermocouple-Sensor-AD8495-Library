@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['initializenative_0',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()']]]
+  ['readsensordata_0',['readSensorData',['../class_a_d8495.html#a1299b3171f15f6909e795f6a55b681a9',1,'AD8495']]],
+  ['readvoltage_1',['readVoltage',['../class_a_d8495.html#a05fb681389ea5d6c77a9f032173d0e9d',1,'AD8495']]]
 ];

@@ -1,6 +1,9 @@
 var searchData=
 [
-  ['begin_0',['begin',['../class_easy_c.html#a1b5a82b8a59daea79de76e496457e176',1,'EasyC::begin()'],['../class_easy_c.html#a9e71467da6f38cbe47b10e96694a4f91',1,'EasyC::begin(uint8_t _address)']]],
-  ['begindone_1',['beginDone',['../class_easy_c.html#a2f55de657a84e73edda23dae91d30436',1,'EasyC']]],
-  ['board_20compatibility_2',['Board compatibility',['../index.html#autotoc_md4',1,'']]]
+  ['about_20soldered_0',['About Soldered',['../index.html#autotoc_md4',1,'']]],
+  ['ad8495_1',['AD8495',['../class_a_d8495.html',1,'AD8495'],['../class_a_d8495.html#a9568a5397c1a73e29835115f57cec05c',1,'AD8495::AD8495()']]],
+  ['ad8495_20breakout_20arduino_20library_2',['Soldered Thermocouple Sensor AD8495 Breakout Arduino library',['../index.html',1,'']]],
+  ['ad8495_2dsoldered_2ecpp_3',['AD8495-SOLDERED.cpp',['../_a_d8495-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
+  ['ad8495_2dsoldered_2ehpp_4',['AD8495-SOLDERED.hpp',['../_a_d8495-_s_o_l_d_e_r_e_d_8hpp.html',1,'']]],
+  ['arduino_20library_5',['Soldered Thermocouple Sensor AD8495 Breakout Arduino library',['../index.html',1,'']]]
 ];

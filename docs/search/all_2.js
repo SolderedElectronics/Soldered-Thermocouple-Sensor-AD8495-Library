@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['compatibility_0',['Board compatibility',['../index.html#autotoc_md4',1,'']]],
-  ['contents_1',['Repository Contents',['../index.html#autotoc_md1',1,'']]]
+  ['board_20compatibility_0',['Board compatibility',['../index.html#autotoc_md3',1,'']]],
+  ['breakout_20arduino_20library_1',['Soldered Thermocouple Sensor AD8495 Breakout Arduino library',['../index.html',1,'']]]
 ];

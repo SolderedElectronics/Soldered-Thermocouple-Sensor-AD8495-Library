@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['initializenative_0',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()']]]
+  ['library_0',['Soldered Thermocouple Sensor AD8495 Breakout Arduino library',['../index.html',1,'']]],
+  ['license_1',['Open-source license',['../index.html#autotoc_md5',1,'']]]
 ];

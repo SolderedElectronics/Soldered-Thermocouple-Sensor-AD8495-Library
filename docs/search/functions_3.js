@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['readdata_0',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readregister_1',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['settemperatureoffset_0',['setTemperatureOffset',['../class_a_d8495.html#ad0760d8684b6e261534b983732dcc766',1,'AD8495']]],
+  ['setvoltageoffset_1',['setVoltageOffset',['../class_a_d8495.html#abb14ea0566fa7323522945451e9b97e9',1,'AD8495']]]
 ];
