@@ -6,11 +6,31 @@
 # Datatypes (KEYWORD1)
 ##################################################
 
+AD8495      KEYWORD1
+
 ##################################################
 # Methods and Functions (KEYWORD2)
 ##################################################
 
 begin	KEYWORD2
+
+getTemperatureC	KEYWORD2
+
+getTemperatureF	KEYWORD2
+
+readVoltage	KEYWORD2
+
+getTemperatureC	KEYWORD2
+
+setTemperatureOffset KEYWORD2
+
+getTemperatureOffset KEYWORD2
+
+getPrecision    KEYWORD2
+
+getSetpointVoltage KEYWORD2
+
+setVoltageOffset    KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)
