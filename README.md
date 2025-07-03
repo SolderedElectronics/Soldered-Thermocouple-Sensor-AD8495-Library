@@ -1,14 +1,13 @@
-# NAZIV PROIZVODA Arduino library
+# Soldered Thermocouple Sensor AD8495 Breakout Arduino library
 
-[![Make docs and publish to GitHub Pages](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml)
-[![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/arduino_lint.yml)
-[![ATtiny Firmware Compile Test](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/attiny_test.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/attiny_test.yml)
+[![Make docs and publish to GitHub Pages](https://github.com/SolderedElectronics/Soldered-Thermocouple-Sensor-AD8495-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml)
+[![Arduino Library Manager Compatibility](https://github.com/SolderedElectronics/Soldered-Thermocouple-Sensor-AD8495-Library/actions/workflows/arduino_lint.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/arduino_lint.yml)
 
-| ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| ![Thermocouple Sensor AD8495](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :------------------------------------------------------------------------------------: |
-|                      [NAZIV PROIZVODA](https://www.solde.red/SKU)                      |
+|                      [Soldered Thermocouple Sensor AD8495 Breakout Arduino library](https://www.solde.red/333053)                      |
 
-OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/en/easyC).
+The AD8495 is a precision instrumentation amplifier with a thermocoupler cold junction compensator. It produces a high output of 5mV/°C directly from the thermocouple signal. The output from the breakout board is taken by the ADC pin form the microcontroller and calculations are done to display the value in Celsius/Fahrenheit.
 
 ### Repository Contents
 
@@ -18,20 +17,14 @@ OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/en/easyC).
 
 ### Hardware design
 
-You can find hardware design for this board in _NAZIV PROIZVODA_ hardware repository.
+You can find hardware design for this board in Soldered Thermocouple Sensor AD8495 Breakout Arduino library hardware repository.
 
-### Documentation
-
-Access Arduino library documentation [here](https://SolderedElectronics.github.io/Soldered-Generic-Arduino-Library/).
-
-- Tutorial for using the NAZIV PROIZVODA board
-- Installing an Arduino library
 
 ### Board compatibility
 
 The library is compatible with board & microcontroller families shown in green below:
 
-[![Compile Sketches](http://github-actions.40ants.com/SolderedElectronics/Soldered-Generic-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/SolderedElectronics/Soldered-Generic-Arduino-Library/actions/workflows/compile_test.yml)
+[![Compile Sketches](https://github.com/SolderedElectronics/Soldered-Thermocouple-Sensor-AD8495-Library/actions/workflows/compile_test.yml/badge.svg?branch=dev)](https://github.com/SolderedElectronics/Soldered-Thermocouple-Sensor-AD8495-Library/actions/workflows/compile_test.yml)
 
 ### About Soldered
 
@@ -43,10 +36,6 @@ At Soldered, we design and manufacture a wide selection of electronic products t
 - [Tutorials & Projects](https://soldered.com/learn)
 - [Community & Technical support](https://soldered.com/community)
 
-### Original source
-
-​
-This library is possible thanks to original [arduino-mcp23017](https://github.com/blemasle/arduino-mcp23017) library. Thank you, blemasle.
 
 ### Open-source license
 
